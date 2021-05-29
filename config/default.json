@@ -1,6 +1,7 @@
 {
   "kafka": {
       "host": "b-2.core-kafka.pfi3o4.c4.kafka.ap-south-1.amazonaws.com:9092,b-1.core-kafka.pfi3o4.c4.kafka.ap-south-1.amazonaws.com:9092"
+              
     },
     "kaleyra": {
       "api_key": "APIKEY1",
@@ -51,5 +52,8 @@
       "whatsapp": {
         "api_key": "ed139e026aa39d8e49fb7fe6fa693fdef150424b"
       }
+    },
+    "eksaath_callback": {
+      "api_key": "abcd"
     }
 }
