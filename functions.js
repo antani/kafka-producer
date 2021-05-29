@@ -269,7 +269,10 @@ exports.freshdeskTicketWfCreationHandler = (req, res) => {
 
     return kp.sendMsg(req, res);
 };
+//Eksaath Callback from StepOne For Workflow stages
+exports.providerEksaathHandler = (req,res) => {
 
+};
 // Provider Message Handler Workflow (Whatsapp, SMS, Telegram etc...)
 exports.providerMessageHandler = (req, res) => {
 
